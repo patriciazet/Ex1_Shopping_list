@@ -1,0 +1,4 @@
+apple 5
+cucumber 2
+egg 10
+milk 1
